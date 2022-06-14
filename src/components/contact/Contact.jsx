@@ -32,16 +32,16 @@ const Contact = () => {
           <article className="contact__option">
             <MdOutlineMailOutline className="contact__option-icon" />
             <h4>Email</h4>
-            <h5>HenryMax@gmail.com</h5>
-            <a href="mailto:bhautikmerndevelopers@gmail.com" target="_blank">
+            <h5>smitgajera6@gmail.com</h5>
+            <a href="mailto:smitgajera6@gmail.com" target="_blank">
               Send an email
             </a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className="contact__option-icon" />
             <h4>Whatsapp</h4>
-            <a href="https://wa.me/+919904656110" target="_blank">
-              Messaage on Whatsapp
+            <a href="https://wa.me/+918160600866" target="_blank">
+              Message on Whatsapp
             </a>
           </article>
         </div>
